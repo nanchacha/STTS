@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "damagochi-428004",
+  "private_key_id": "32641564e84307595e9e1ceb983f4259fb856044",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDVc+VgNJ6sMw8r\nafCm8LKwXsIj3Dz5pZHJi5Co9CV/IFOp/4ubDhXqwQGalz6WA3YsNMZ4DgUt8M2d\n1506B2jFZaC5Xr7nQqvqK3O9gjERHWilZmw6m3MzZiISDoBhPuq4ScOq9Lbek65V\n1x1ey9DwXFsC/2vBM1nTK9uId5y7LgD2pPPeZzh437cRAGZ/ocDOdQUVml5917Vk\nxLWQsQlrPfwwe2ORcVo+z2CCo2IbOPyjosXJFtdGdHfFSUZiCCuM7nKIEKYzEFG/\nLUHFDXBUrUtw2d+OcUB5nm/GYsj2LulZQPoT/Hd8uuzPz03goo9UkiSbGbWIjniV\ncG3+Tb4tAgMBAAECggEAaVWBCwHMj6O+x6jG9krvkzOf0Hx9pqC7Gd+Cqq2Y12xH\nfSu7Y/AGhstqFDSw0OyyY0xD6Ljae3pKraraTumbHVZygyerQ4pWNf/tZMabmhuO\nKZkqrZ1Ks0GibJC1b8fRotHb+kA7AgmUzY2TU9V2rTaWPxt2vGev2xLYijakpIU+\n7RsmsbHKfDkS2aoq8Gm2E1JW/PgCm/l0ZordjRSpMdR207CXQeYP1TRFT+FyJ+t0\nrPW/z9l90KuUbemd+nlivxAF0PbOtoquvvQNXlNGHxlJxIiu3GXPwACpId8NuWJe\nBVURfuFbYxrsDSeLzRXrqYSoTV6Fdt1OkF0kdI4UDQKBgQD7DlAMPHarW/mf4FkT\ncVnjCWpoCd2PNPhRvvvLvMheDoyslbR74kohcrBZPhrYmNHOud0CjfHX3hqLpdVC\ngcDvp8JOc9zF0RuhbMy91PHfmtE7aFgJKWy65WaDzoCdSW8SOiyShbTQeQlRe/Br\nQjDXd/QZbEHbv1f3a45aFeqMswKBgQDZqAIsCnQ8CmtTgmX74Esnw9G0laTcPBqq\npKCE40mL/Qzv81+fPoTXpX/7q4qmfFW2dG973eFEIUgMS8vZGWUK5M9k7IxYJsyN\n3CR/EyEcVNQ2G+GQ8zF3NqsFqovOYKPCo1l4TDueVdDxjVt2ScvlMPTAzKaj9N6Z\nDj52dcG5nwKBgQCzcaB/jnwXsU70Gkww3HUuFR3MLTkC0g6nh0W8czwYFngwJ3Tw\nk2b/D1XDA+P2awyToT+6QrDY5bS9mhObTNkVsyfsIV5sujDwqa6SBPG5LJRezQ8X\nxVclIzCqB2Dgi4trUM9pD06VL94cMuU+FPqKGAAOZ9WO9u4uN99wvnd+hwKBgGhW\n8xubs1bpA8RXuX4CauTYKZpxNkPhiEMPgmfR8XrrRx1sRQW42cPq8ax68o+XARvj\nO2Jc3lVjwv8qAsHDO736LDXMdAb6KotC4jgMuo2zWLvLp9lty+PDUD76H+VCTJ7M\n4eIaYWYo624wfoz5GYZ4boxSTvxAMcmbm3P8RW8vAoGAcNzVWTAYYNNTOoFQS2tr\nlw6BGV1g3nGuNF2ToHdUywZk6mWl1C84UInol/269aPRvJv180JxvqEhi45g8c0G\npP0UVHaIxT6BGIG1mzKQkOQTF8qCVYbXZ01FyMm8V07rZ24hyasNN+Luj7ReEYra\nfgJKd3daZsCr7Njpu+ZAhi4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "damagochi@damagochi-428004.iam.gserviceaccount.com",
+  "client_id": "105195291533578392796",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/damagochi%40damagochi-428004.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
